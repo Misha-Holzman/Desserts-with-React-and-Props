@@ -11,17 +11,17 @@ Lets pass some props!
 
 The rendered page should have 3 Category headers with 3 list items under each one:
  
-  ###Cookies
+  ### Cookies
   * chocolate chip
   * oreos
   * peanut butter
   
-  ###Pie
+  ### Pie
   * Raspberry
   * Cherry
   * Apple
   
-  ###Cake
+  ### Cake
   * Lemon
   * Carrot
   * Chocolate
