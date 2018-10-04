@@ -32,3 +32,9 @@ The rendered page should have 3 Category headers with 3 list items under each on
 Create another IceCream component that takes an array of flavors and renders them as list items.
 
 > Hint: Use Map
+
+## Super Bonus
+
+Add some styling!
+
+> Hint: If using stylesheets, create a separate css file for each component.
