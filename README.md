@@ -1,2 +1,2 @@
 # desserts-props-lab
-![:image](https://gph.is/XLH2hK)
+![:image](https://media.giphy.com/media/szluU4BRyID4c/giphy.gif)
